@@ -1,17 +1,17 @@
 # site settings
-title: Rio Phan
-subtitle: by HTML5 UP
+title: Tam Phan
+subtitle: Senior iOS Developer for Hire, Freelancer
 email: tam09t4@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Senior iOS Developer for Hire, Freelancer<br /> and experience working with Objective-C, Swift.
 baseurl: "" # the subpath of your site, e.g. /blog forty-jekyll-theme
 url: https://tam09t4.github.io
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 41 Le Duan
+city: Da Nang
+state: Hai Chau
+zip_code: 550000
+country: Viet Nam
+phone: (+84) 121-363-1188
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
