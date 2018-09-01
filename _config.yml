@@ -4,7 +4,8 @@ subtitle: Senior iOS Developer for Hire, Freelancer
 email: tam09t4@gmail.com
 description: Senior iOS Developer for Hire, Freelancer<br /> and experience working with Objective-C, Swift.
 baseurl: "" # the subpath of your site, e.g. /blog forty-jekyll-theme
-url: https://tam09t4.github.io
+#url: https://tam09t4.github.io
+url: http://127.0.0.1:4000
 author:
 street_address: 41 Le Duan
 city: Da Nang
@@ -23,13 +24,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # build settings
 markdown: kramdown

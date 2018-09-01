@@ -4,7 +4,7 @@ title: All posts
 landing-title: 'All posts'
 nav-menu: true
 description: null
-image: null
+image: assets/images/new_pic_allpost.jpg
 author: null
 ---
 
