@@ -7,4 +7,6 @@ image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I am a freelance iOS developer, technical consultant, and open-source contributor. I have a wealth of experience working with clients from around the world. I offer my services as an iOS developer for hire to work with businesses of all sizes including start-ups, creative agencies, designers, individuals and other freelancers & developers.
+
+The work I provide is of the highest quality, fully responsive, and tested in a wide range of devices. I take great care to ensure each project is well-architected, well-documented and easily maintainable so you can enhance an app as your company grows.

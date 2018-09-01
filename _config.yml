@@ -12,6 +12,8 @@ state: Hai Chau
 zip_code: 550000
 country: Viet Nam
 phone: (+84) 121-363-1188
+skype: pmtamit
+facebook: https://www.facebook.com/PhanMinhTam
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
